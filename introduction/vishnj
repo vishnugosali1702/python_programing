@@ -1,0 +1,3 @@
+import sqlites 
+
+cup.execute(""'insert into movie values ("def,2026,40)""')
